@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+.fs30{
+	font-size:30px;
+}
+.fs24{
+	font-size:24px;
+}
+.fs23{
+	font-size:23px;
+}
+.fs22{
+	font-size:22px;
+}
+.fs21{
+	font-size:21px;
+}
+.fs20{
+	font-size:20px;
+}
+.fs19{
+	font-size:19px;
+}
+.fs18{
+	font-size:18px;
+}
+.fs17{
+	font-size:17px;
+}
+.fs16{
+	font-size:16px;
+}
+.fs15{
+	font-size:15px;
+}
+.fs14{
+	font-size:14px;
+}
+.fs13{
+	font-size:13px;
+}
+.fs12{
+	font-size:12px;
+}
+.fs11{
+	font-size:11px;
+}
+
+#logo{
+	text-align:center;
+	margin-top:80px;
+	margin-bottom:30px;
+	padding:10px;
+}
+ul{
+	background-color:#005891;
+	font-weight:bold;
+	text-align: center;
+}
+.nav li{
+	display:inline-block;
+	padding:10px;
+	margin: 0 10px;
+}
+
+.nav a{
+	color:white;
+}
+
+.nav a:hover{ /*hover= hand over*/
+	color:#fcff00
+}
+.promotion{
+	padding:30px;
+	text-align: center;
+}
+
+.ps8050{
+	height: 500px;
+	width: 800px;
+	opacity: 0.5;
+}
+
+.official{
+	text-align: center;
+	margin: 0 auto 50px;
+	font-size: 0;
+}
+
+.official p{
+	color:#555555;
+	margin: 5px 0 10px;
+	padding-bottom:10px;
+}
+
+.social, .center,.office{
+	text-align:center;
+}
+
+.center {
+	margin:30px;
+}
+
+.office{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.pcc, .cpn{
+	color:#005891;
+}
+
+p{
+	margin: 10px;
+}
+
+
+
+
+
+
+

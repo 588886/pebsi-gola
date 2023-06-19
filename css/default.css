@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/*
+문서 전역에 걸쳐서 공통되고 일관된 하나의 스타일 규칙을 설정
+*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+/*태그 선택자*/
+body{
+	color:black;
+	
+	}
+a{
+	color:inherit;	/*inherit=상속으로서 위의 요소를 따라감*/
+	text-decoration:none;
+}

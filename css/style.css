@@ -52,10 +52,10 @@
 	margin-bottom:30px;
 	padding:10px;
 }
-ul{
-	background-color:#005891;
+.headerul{
 	font-weight:bold;
 	text-align: center;
+	background-color: blue;
 }
 .nav li{
 	display:inline-block;
@@ -114,9 +114,53 @@ p{
 	margin: 10px;
 }
 
+#header{
+	margin-bottom:30px;
+}
+
+#footer{
+	margin-top:30px;
+}
 
 
+.main {
+	width: 1280px;
+	margin: 0 auto;
+}
+ul img{
+	width: 150px;
+	height: 150px;
+	
+}
+ul{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+ul li img{
+	margin:auto 20px;
+}
+
+.small_subject{
+	text-align: center;
+	font-size: 200%;
+	margin:30px;
+	font-weight: bold;
+}
 
 
-
+.history, .strangth{
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+}
+.history_detail{
+	display:flex;
+	width: 1200px;
+	gap:15px;
+}
+.sub_brand_list p, .fatners_list p{
+	text-align: center;
+}
 
